@@ -8,7 +8,7 @@
 import Foundation
 
 public class Common {
-    var version: String = "0.1.0"
+    var version: String = "0.2.0"
     
     public static func initSDK() {
         print("sdk init!")
