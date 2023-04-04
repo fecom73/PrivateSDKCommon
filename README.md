@@ -1,0 +1,2 @@
+# PrivateSDKCommon
+cocoapod test
